@@ -37,8 +37,7 @@ public class Leapyear {
 	        }
 	        
     }
-    System.out.println("is leap year: "+isleapyear);
+    System.out.println("isleap year: "+isleapyear);
     
-}
     }
-}
+

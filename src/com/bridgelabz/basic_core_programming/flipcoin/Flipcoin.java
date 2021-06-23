@@ -3,7 +3,8 @@ package com.bridgelabz.basic_core_programming.flipcoin;
 public class Flipcoin {
 	package com.bridgelabz.basic_core_programming.flipcoin;
 	import java.util.Scanner;
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
 		  Scanner scanner = new Scanner(System.in);
 		  System.out.println("enter number of time you want to flip a coin : ");
 	    int numofflips = scanner.nextInt();

@@ -1,6 +1,7 @@
 package com.bridgelabz.basic_core_programming.powerof2;
 import java.util.Scanner;
-public class Powerof2 {
+public class Powerof2
+{
 	public static void main (String[] args)
 	{
     int a,b,f=0;
@@ -22,6 +23,7 @@ public class Powerof2 {
 
 {
 			System.out.print("yes");
+			
 		}
 
 	}

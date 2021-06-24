@@ -2,7 +2,8 @@ package com.bridgelabz.basic_core_programming.LargestAmongthreeNum;
 
 import java.util.Scanner;
 
-public class LargestAmongThreeNumbers {
+public class LargestAmongThreeNumbers
+{
 
 	public static void main(String[] args)   
 	{  

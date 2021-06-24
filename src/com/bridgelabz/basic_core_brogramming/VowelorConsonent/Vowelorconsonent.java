@@ -1,13 +1,17 @@
 package com.bridgelabz.basic_core_brogramming.VowelorConsonent;
 import java.util.Scanner;
 public class Vowelorconsonent {
-	   public static void main(String args[]){
+	   public static void main(String args[])
+	   {
 	      System.out.println("Enter a character :");
 	      Scanner scanner = new Scanner(System.in);
 	      char ch = scanner.next().charAt(0);
-	      if(ch == 'a'|| ch == 'e'|| ch == 'i' ||ch == 'o' ||ch == 'u'||ch == ' '){
+	      if(ch == 'a'|| ch == 'e'|| ch == 'i' ||ch == 'o' ||ch == 'u'||ch == ' ')
+	      {
 	         System.out.println("Given character is an vowel");
-	      }else{
+	      }
+	      else
+	      {
 	         System.out.println("Given character is a consonant");
 	      }
 	   }

@@ -10,8 +10,11 @@ public class Vowelorconsonent {
             System.out.println(ch + " is vowel");
         else
             System.out.println(ch + " is consonant");
+<<<<<<< HEAD
 
     }
+=======
+>>>>>>> 2f382a339cb1a8d071f97271f529de194627e4b6
 
     }
 
